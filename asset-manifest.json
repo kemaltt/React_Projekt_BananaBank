@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Projekt_BananaBank/static/css/main.d4d3f2c3.css",
+    "main.js": "/React_Projekt_BananaBank/static/js/main.4633ae33.js",
+    "index.html": "/React_Projekt_BananaBank/index.html",
+    "main.d4d3f2c3.css.map": "/React_Projekt_BananaBank/static/css/main.d4d3f2c3.css.map",
+    "main.4633ae33.js.map": "/React_Projekt_BananaBank/static/js/main.4633ae33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d3f2c3.css",
+    "static/js/main.4633ae33.js"
+  ]
+}
