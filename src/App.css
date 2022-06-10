@@ -1,0 +1,58 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Oleo+Script);
+@import url(http://fonts.googleapis.com/css?family=Ruluko);
+
+.payments_container {
+  font-family: "Ruluko", sans-serif;
+  margin: 10vh auto;
+  text-align: center;
+  width: 40%;
+}
+
+h1 {
+  color: #fbec5d;
+  background-color: #fffbc9;
+  border-radius: 5px;
+  font-family: "Oleo Script", cursive;
+  font-size: 50px;
+  margin: 0;
+}
+
+.konto{
+  color: #6b3e26;
+  margin-top: 2vh;
+  padding: 2vh 2%;
+  background-color: #fffbc9;
+  border: 1px solid #fbec5d;
+  border-radius: 15px;
+}
+.saldo {
+  background-color: #fbec5d;
+  color: #ffffff;
+  border: 1px solid #fbec5d;
+  border-radius: 15px;
+  font-family: "Ruluko", sans-serif;
+  font-size: 50px;
+  margin: 5px;
+  padding: 25px 0px;
+}
+.geldbetrag {
+  padding: 5px;
+  margin: 1vh 0.25rem;
+  min-width: 125px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  transition: border-color 0.5s ease-out;
+}
+button {
+  margin: 5px;
+  background-color: #fbec5d;
+  color: #6b3e26;
+  border-radius: 5px;
+  padding: 5px;
+}
